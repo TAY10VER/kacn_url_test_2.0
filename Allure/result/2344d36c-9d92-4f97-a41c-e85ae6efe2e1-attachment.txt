@@ -1,5 +1,0 @@
-测试URL： https://www.ka-cn.com/mobile/landing/index.php?id=wxdf&menu=dgdf&t=30&source=baidu&plan=weixin-shenyangshangwei-yidong&unit=weixin-guowai&keyword=guowaiweixinkeyizhuanzhangma&e_matchtype={matchtype}&e_creative={creative}&e_adposition={adposition}&e_pagenum={pagenum}&e_keywordid={keywordid}&e_keywordid2=211226583416
-页面未发生跳转
-预期T值：30，实际T值:30
-商品名称： 微信购物代付
-购买按钮存在，可正常点击

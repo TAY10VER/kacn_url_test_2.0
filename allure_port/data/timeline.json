@@ -1,0 +1,30 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-8V321HJK",
+    "children" : [ {
+      "name" : "20752-MainThread",
+      "children" : [ {
+        "name" : "test_m_mobile_game",
+        "uid" : "a206f12a8b2deb7",
+        "parentUid" : "af657030fa741c01959d53a8175d3719",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652929563836,
+          "stop" : 1652929565862,
+          "duration" : 2026
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "af657030fa741c01959d53a8175d3719"
+    } ],
+    "uid" : "059e667af66660dbccfe85906ecd6e75"
+  } ]
+}

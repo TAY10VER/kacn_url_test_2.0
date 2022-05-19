@@ -1,5 +1,0 @@
-测试URL： https://www.ka-cn.com/landing/index.php?id=pg&t=30&source=baidu&plan=pingguo-shenyangshangwei-yidong&unit=pingguo-app%20chongzhi&keyword=appchongzhiwangzhan&e_matchtype={matchtype}&e_creative={creative}&e_adposition={adposition}&e_pagenum={pagenum}&e_keywordid={keywordid}&e_keywordid2=211226519851
-页面未发生跳转
-预期T值：30，实际T值:30
-购买按钮存在，可正常点击
-['商品名称：苹果', '中国区代充', '50元 100元 500元 650元 1000元 2000元', '中国区卡密', '6元 10元 30元 50元 68元 88元 100元 200元 500元 648元 1000元', '加拿大卡密', '25加元 100加元', '日本区卡密', '1500日元 3000日元 5000日元 10000日元', '中国香港卡密', '150港币 200港币 500港币 1000港币', '美国区卡密', '10美元 25美元 50美元 100美元', '中国台湾卡密', '500台币 1000台币']

@@ -1,0 +1,26 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "scripts.test_12",
+    "children" : [ {
+      "name" : "test_m_mobile_game",
+      "uid" : "a206f12a8b2deb7",
+      "parentUid" : "b1e6c15a690650f131849ba078294f89",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652929563836,
+        "stop" : 1652929565862,
+        "duration" : 2026
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "scripts.test_12"
+  } ]
+}

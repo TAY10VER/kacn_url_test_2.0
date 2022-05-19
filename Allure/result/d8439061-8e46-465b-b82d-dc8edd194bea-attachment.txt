@@ -1,5 +1,0 @@
-测试URL： https://www.ka-cn.com/mobile/landing/index.php?id=dy&menu=zb&t=30&source=baidu&plan=shipinzhibo-shenyangshangwei-yidong&unit=douyinshipin&keyword=douyinhaiwaichongzhi&e_creative={creative}&e_keywordid={keywordid}&e_keywordid2=364760673658
-页面未发生跳转
-预期T值：30，实际T值:30
-购买按钮存在，可正常点击
-商品信息： ['商品名称：', '抖音直播', '充值类型：', '直充', '面值：', '直降 限购1次 980抖币 直降 限购1次 5180抖币 980抖币 2980抖币 5180抖币 15980抖币 50000抖币 100000抖币']

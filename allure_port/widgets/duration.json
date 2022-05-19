@@ -1,0 +1,11 @@
+[ {
+  "uid" : "a206f12a8b2deb7",
+  "name" : "test_m_mobile_game",
+  "time" : {
+    "start" : 1652929563836,
+    "stop" : 1652929565862,
+    "duration" : 2026
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

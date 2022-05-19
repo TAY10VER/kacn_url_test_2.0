@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu May 19 11:06:03 CST 2022","Thu May 19 11:06:05 CST 2022","2026","scripts","test_12","Test_12","","","test_m_mobile_game","测试mobile 手游专题页"
